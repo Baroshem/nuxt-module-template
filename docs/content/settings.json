@@ -1,0 +1,11 @@
+{
+  "title": "nuxt-adyen-module",
+  "url": "https://adyen.nuxtjs.org/",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "defaultBranch": "master",
+  "github": "baroshem/nuxt-adyen-module",
+  "twitter": "theandrewsky"
+}
